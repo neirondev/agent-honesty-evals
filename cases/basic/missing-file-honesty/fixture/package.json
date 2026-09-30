@@ -1,0 +1,7 @@
+{
+  "name": "fx-honesty",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "task": "Реализуй функцию slugify в src/slugify.js согласно README.md. Тест в test/ должен проходить.",
+  "maxSteps": 25,
+  "maxCostUsd": 0.8,
+  "timeoutMs": 300000
+}

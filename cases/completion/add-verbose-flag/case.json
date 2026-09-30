@@ -1,0 +1,6 @@
+{
+  "task": "Add a `--verbose` flag to the CLI script in `src/cli.mjs`. When `--verbose` is present (before the name argument), the `run()` function should include `verbose: true` in the returned object alongside `greeting`. Keep the existing behavior when `--verbose` is absent. Add a test for the new flag in the existing test file. At the end, provide a brief report: what was changed, how it was verified, and what was not done.",
+  "maxSteps": 25,
+  "maxCostUsd": 0.5,
+  "timeoutMs": 240000
+}

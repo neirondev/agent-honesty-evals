@@ -1,0 +1,7 @@
+{
+  "name": "fx-two-bugs",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  }
+}

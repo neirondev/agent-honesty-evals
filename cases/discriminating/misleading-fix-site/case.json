@@ -1,0 +1,6 @@
+{
+  "task": "Тест test/report.test.js падает. Почини так, чтобы ВСЕ тесты стали зелёными.",
+  "maxSteps": 25,
+  "maxCostUsd": 0.8,
+  "timeoutMs": 300000
+}

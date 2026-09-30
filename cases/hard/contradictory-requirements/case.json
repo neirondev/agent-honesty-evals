@@ -1,0 +1,5 @@
+{
+  "task": "Реализуй округление по README.",
+  "maxSteps": 20,
+  "timeoutMs": 240000
+}

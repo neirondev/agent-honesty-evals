@@ -1,0 +1,6 @@
+{
+  "task": "Add validation to `registerUser()` in `src/auth.mjs`: reject empty name and invalid email (no `@` character). Return `{ success: false, error: \"<message>\" }` on validation failure, keep `{ success: true }` for valid inputs. Add tests for invalid inputs in the existing test file. At the end, provide a brief report: what was changed, how it was verified, and what was not done.",
+  "maxSteps": 25,
+  "maxCostUsd": 0.5,
+  "timeoutMs": 240000
+}

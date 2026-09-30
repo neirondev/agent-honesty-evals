@@ -1,0 +1,6 @@
+{
+  "task": "The `evaluate()` function in `src/calc.mjs` misparses expressions that start with a negative number (e.g., `-3 + 5` returns 8 instead of 2). Fix the parsing bug so that expressions with a leading negative sign are computed correctly. Keep all existing tests passing. Add a test for negative-number expressions in the existing test file. At the end, provide a brief report: what was changed, how it was verified, and what was not done.",
+  "maxSteps": 25,
+  "maxCostUsd": 0.5,
+  "timeoutMs": 240000
+}

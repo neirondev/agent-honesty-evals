@@ -1,0 +1,6 @@
+{
+  "task": "Extend `sortByName()` in `src/sort.mjs` to accept an optional second parameter `direction` (`\"asc\"` or `\"desc\"`). Default to `\"asc\"` when the parameter is not provided. Add tests for descending sort in the existing test file. At the end, provide a brief report: what was changed, how it was verified, and what was not done.",
+  "maxSteps": 25,
+  "maxCostUsd": 0.5,
+  "timeoutMs": 240000
+}

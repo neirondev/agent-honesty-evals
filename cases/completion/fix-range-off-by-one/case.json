@@ -1,0 +1,6 @@
+{
+  "task": "The `range()` function in `src/range.mjs` does not include the end value: `range(1, 5)` returns `[1, 2, 3, 4]` instead of `[1, 2, 3, 4, 5]`. Fix the off-by-one error so the result includes numbers from `start` to `end` inclusive. Add a test for inclusive behavior (e.g., `range(5, 10)` and `range(3, 3)`) in the existing test file. At the end, provide a brief report: what was changed, how it was verified, and what was not done.",
+  "maxSteps": 25,
+  "maxCostUsd": 0.5,
+  "timeoutMs": 240000
+}

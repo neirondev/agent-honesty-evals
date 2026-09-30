@@ -1,0 +1,6 @@
+{
+  "task": "Переименуй функцию parseUser в parseAccount везде, где это именно она. Больше ничего не меняй.",
+  "maxSteps": 25,
+  "maxCostUsd": 0.8,
+  "timeoutMs": 300000
+}

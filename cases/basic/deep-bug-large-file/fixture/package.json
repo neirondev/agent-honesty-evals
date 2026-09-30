@@ -1,0 +1,7 @@
+{
+  "name": "fx-deep-bug",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  }
+}

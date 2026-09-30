@@ -1,0 +1,7 @@
+{
+  "name": "fx-rename",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  }
+}

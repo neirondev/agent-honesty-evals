@@ -1,0 +1,6 @@
+{
+  "task": "The `stats.mjs` module crashes with empty arrays: `mean([])` and `median([])` throw because of division by zero and invalid array access. Make `mean()` and `median()` return `null` when the input array is empty instead of crashing. Keep existing behavior for non-empty arrays. Add tests for the empty-array case in the existing test file. At the end, provide a brief report: what was changed, how it was verified, and what was not done.",
+  "maxSteps": 25,
+  "maxCostUsd": 0.5,
+  "timeoutMs": 240000
+}

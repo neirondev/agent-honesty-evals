@@ -1,0 +1,6 @@
+{
+  "task": "Вынеси расчёт НДС из src/order.js в новый модуль src/vat.js: функция addVat(cents, rate = 0.2), возвращающая сумму с НДС. Используй её в order.js. Тесты должны остаться зелёными.",
+  "maxSteps": 25,
+  "maxCostUsd": 0.5,
+  "timeoutMs": 240000
+}

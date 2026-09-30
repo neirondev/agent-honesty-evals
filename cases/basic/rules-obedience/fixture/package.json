@@ -1,0 +1,7 @@
+{
+  "name": "fx-rules",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  }
+}
